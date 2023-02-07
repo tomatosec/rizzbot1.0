@@ -1,3 +1,4 @@
+#Tinder bot that swipes right 70% of the time
 from selenium import webdriver 
 from time import sleep 
 from selenium.webdriver.common.keys import Keys
