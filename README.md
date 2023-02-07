@@ -1,6 +1,5 @@
 # rizzbot1.0
 
-~For educational and research purposes only~ ;)
 
 Unlimited rizz! These scripts allow you to completley automate your liking and messaging on Tinder. Thanks to the GPT-3 API, every message is unique. Additional capabilities will be made in future realeases. 
 
